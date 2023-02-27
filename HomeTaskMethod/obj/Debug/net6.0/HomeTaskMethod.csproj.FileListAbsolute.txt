@@ -1,0 +1,15 @@
+C:\Users\Nijat\source\repos\HomeTaskMethod\HomeTaskMethod\obj\Debug\net6.0\HomeTaskMethod.csproj.AssemblyReference.cache
+C:\Users\Nijat\source\repos\HomeTaskMethod\HomeTaskMethod\obj\Debug\net6.0\HomeTaskMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijat\source\repos\HomeTaskMethod\HomeTaskMethod\obj\Debug\net6.0\HomeTaskMethod.AssemblyInfoInputs.cache
+C:\Users\Nijat\source\repos\HomeTaskMethod\HomeTaskMethod\obj\Debug\net6.0\HomeTaskMethod.AssemblyInfo.cs
+C:\Users\Nijat\source\repos\HomeTaskMethod\HomeTaskMethod\obj\Debug\net6.0\HomeTaskMethod.csproj.CoreCompileInputs.cache
+C:\Users\Nijat\source\repos\HomeTaskMethod\HomeTaskMethod\bin\Debug\net6.0\HomeTaskMethod.exe
+C:\Users\Nijat\source\repos\HomeTaskMethod\HomeTaskMethod\bin\Debug\net6.0\HomeTaskMethod.deps.json
+C:\Users\Nijat\source\repos\HomeTaskMethod\HomeTaskMethod\bin\Debug\net6.0\HomeTaskMethod.runtimeconfig.json
+C:\Users\Nijat\source\repos\HomeTaskMethod\HomeTaskMethod\bin\Debug\net6.0\HomeTaskMethod.dll
+C:\Users\Nijat\source\repos\HomeTaskMethod\HomeTaskMethod\bin\Debug\net6.0\HomeTaskMethod.pdb
+C:\Users\Nijat\source\repos\HomeTaskMethod\HomeTaskMethod\obj\Debug\net6.0\HomeTaskMethod.dll
+C:\Users\Nijat\source\repos\HomeTaskMethod\HomeTaskMethod\obj\Debug\net6.0\refint\HomeTaskMethod.dll
+C:\Users\Nijat\source\repos\HomeTaskMethod\HomeTaskMethod\obj\Debug\net6.0\HomeTaskMethod.pdb
+C:\Users\Nijat\source\repos\HomeTaskMethod\HomeTaskMethod\obj\Debug\net6.0\HomeTaskMethod.genruntimeconfig.cache
+C:\Users\Nijat\source\repos\HomeTaskMethod\HomeTaskMethod\obj\Debug\net6.0\ref\HomeTaskMethod.dll
